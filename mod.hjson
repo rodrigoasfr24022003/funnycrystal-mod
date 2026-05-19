@@ -1,7 +1,7 @@
 name: "funnycrystal"
 displayName: "Funny Crystal Mod"
 author: rodrigo_of_rodrigonia
-description: "Addon to Rodrigonia. Adds a funny crystal made of sulfur, astatine, bromine, hydrogen, neptunium, copernicium and oxygen."
+description: "Addon to Rodrigonia. Adds a funny crystal made of sulfur, astatine, bromine, hydrogen, neptunium, copernicium and oxygen, which was inspired by a r/cursedchemistry post."
 version: "1.0"
 minGameVersion: "150"
 dependencies: ["rodrigonia"]
